@@ -63,7 +63,8 @@
 
     * 远程仓库地址可以在github仓库的Clone or download绿色按钮下找到
     >    git remote add 'repository' https://github.com/'username'/'repository.git'
-    >    git push 'repository' 'master'
+/
+    >   git push 'repository' 'master'
     注：第一次使用添加-u参数
     >    git push -u 'repository' 'master'
 
